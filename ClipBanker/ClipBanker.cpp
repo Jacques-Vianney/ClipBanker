@@ -36,5 +36,5 @@ void ClipBanker(){
 int main(){
 
     ClipBanker();
-    return 0;
+    return 1;
 }
